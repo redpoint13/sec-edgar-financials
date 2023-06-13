@@ -34,7 +34,7 @@ setup(
     license=about['__license__'],
     packages=['edgar'],
     keywords=['sec', 'edgar', 'financials', 'stock', 'fundamental', 'analysis'],
-    python_requires="==3.7",
+#     python_requires="==3.7",
     install_requires=requires,
     tests_require=test_requirements,
     classifiers=[
